@@ -66,7 +66,7 @@ I learned from my personal penetration testing what ways I can protect against a
 | Image | ![franchisee access](franchisee.png) |
 | Corrections | I changed the password of both the admin and the franchisee users to prevent unauthorized access to them |
 
-## Peer Attack: Andrew Redd attaching Vincent Reiley
+## Peer Attack: Andrew Redd attacking Vincent Reiley
 
 ### Peer successful attack record
 
