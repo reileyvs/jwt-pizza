@@ -9,7 +9,7 @@ Vincent Reiley attacking Andrew Redd
 | Classification | 5 |
 | Severity | 2 |
 | Description | Self-target: With admin permissions, deleted all franchises |
-| Image | ![admin.png] |
+| Image | ![admin access](admin.png) |
 | Corrections | I changed the admin password (at least I thought I did) |
 
 ---
@@ -23,5 +23,5 @@ Vincent Reiley attacking Andrew Redd
 | Classification | 5 |
 | Severity | 3 |
 | Description | With franchisee access, deleted stores pertaining to default franchisee and added a fake store. |
-| Image | ![franchisee.png] |
+| Image | ![franchisee access](franchisee.png) |
 | Corrections | I changed the password of both the admin and the franchisee users to prevent unauthorized access to them |
